@@ -1,5 +1,5 @@
-with open("index.html","r") as webpage:
-    with open("output2.txt","a") as wf:
+with open("week4-Python-CipherSchools/index.html","r") as webpage:
+    with open("week4-Python-CipherSchools/output2.txt","a") as wf:
         page = webpage.read()
         link_exists = True
         while link_exists:
