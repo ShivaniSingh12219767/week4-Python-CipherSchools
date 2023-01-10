@@ -1,0 +1,4 @@
+Shivani,100
+Namrata,90
+Mansi,80
+Sanjana,70
